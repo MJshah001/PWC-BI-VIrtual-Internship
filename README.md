@@ -27,8 +27,8 @@ This repository contains the Power BI Dashboards I created during the PWC Switze
 
 
 ## Call Centre Trends
-[PBIX](https://github.com/MJshah001/PWC-BI-VIrtual-Internship/blob/main/Call%20Centre%20Trends/CallCenterAnalysis_Monil_Shah.pbix)
-[PDF](https://github.com/MJshah001/PWC-BI-VIrtual-Internship/blob/main/Call%20Centre%20Trends/CallCenterAnalysis_Monil_Shah.pdf)
+[PBIX](https://github.com/MJshah001/PWC-BI-VIrtual-Internship/blob/main/Call%20Centre%20Trends/CallCenterAnalysis_Monil_Shah.pbix) ,
+[PDF](https://github.com/MJshah001/PWC-BI-VIrtual-Internship/blob/main/Call%20Centre%20Trends/CallCenterAnalysis_Monil_Shah.pdf) ,
 [DATA](https://github.com/MJshah001/PWC-BI-VIrtual-Internship/blob/main/Call%20Centre%20Trends/01%20Call-Center-Dataset.xlsx)
 
 ![Call Center Dashboard](https://github.com/MJshah001/PWC-BI-VIrtual-Internship/blob/main/Call%20Centre%20Trends/call%20center%20dashboard.jpeg)
